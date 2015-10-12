@@ -1,0 +1,4 @@
+.import1 {
+    color: red;
+}
+@import url(import2.css);
