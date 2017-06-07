@@ -1,6 +1,6 @@
 {
     "name": "digo-autoprefixer",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "repository": "http://github.com/digojs/digo-autoprefixer",
     "description": "digo 插件：使用 AutoPrefixer 追加 CSS 属性前缀",
     "keywords": [
